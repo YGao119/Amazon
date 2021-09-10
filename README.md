@@ -1,4 +1,4 @@
-# Programming Assignment 2
+# Amazon
 
 The project models a very simplified version of an online retail system such as Amazon. It will read a database of products from certain categories as well as users and their associated information, and it allows a user to interactively search for products based on certain keywords returning the products that match the search. From those matches,  this program will allow a user to add select items to their “cart”, view items in their cart, purchase the items in their cart, and save the updated database of product and user information.
 
